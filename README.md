@@ -56,8 +56,11 @@
   [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-sys-code&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/vishal-sys-code?tab=repositories)
 
   ### Top Languages
+<!-- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula) -->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code)](https://github.com/vishal-sys-code/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
 
   <!-- ### Streak
 
