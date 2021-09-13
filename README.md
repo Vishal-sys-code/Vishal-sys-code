@@ -97,4 +97,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-sys-code &theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-sys-code &theme=onedark)](https://github.com/vishal-sys-code/github-profile-trophy)
