@@ -92,10 +92,10 @@
 </a>
 -->
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
--->
+ [![My Stats](https://github-readme-stats.vercel.app/api?username=vishal-sys-code&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/vishal-sys-code?tab=repositories)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/vishal-sys-code?tab=repositories)
+<!-- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/vishal-sys-code?tab=repositories) -->
 
 
   ### Trophies
