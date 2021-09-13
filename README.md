@@ -45,11 +45,11 @@
 
 <!-- ## Statistics
 
-<div align="center">
+<div align="center"> -->
   
   ### Trophies
 
-  [![Sanchit's Trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula) -->
+  [![Vishal's Trophy](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
 
   ### Github Stats
 
@@ -96,5 +96,3 @@
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories) -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishal-sys-code &theme=onedark)](https://github.com/vishal-sys-code/github-profile-trophy)
