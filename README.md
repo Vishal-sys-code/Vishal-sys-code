@@ -1,6 +1,6 @@
 ## नमस्ते, I'm Vishal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://vishal-sys-code.github.io/portfolio/)](https://vishal-sys-code.github.io/tmleyncodes.github.io/)
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://vishal-sys-code.github.io/tmleyncodes.github.io/)](https://vishal-sys-code.github.io/tmleyncodes.github.io/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=vishal-sys-code&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/vishal.pandey3-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/vishal-pandey-992248189/)
 [![Instagram](https://img.shields.io/badge/thisisvishalpandey-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/thisisvishalpandey/)
