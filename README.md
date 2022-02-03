@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on to brushing up my skills
 - 🌱 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on JavaScript and ML projects
-- 💬 Ask me about C, C++, CSS and JavaScript
+- 💬 Ask me about C, C++, CSS, Java and JavaScript
 - 📫 How to reach me: <a href="mailto:bishalpandey2001@gmail.com">bishalpandey2001@gmail.com</a>
 - 🤔 I’m looking for help with reactjs
 - ⚡ Fun Fact: GitHub is a Hub of gits (Just Kidding).
