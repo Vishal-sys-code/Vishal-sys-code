@@ -86,7 +86,7 @@
 </a>
 
 ### Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-sys-code)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/Sanchitbajaj02?tab=repositories">
