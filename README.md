@@ -60,9 +60,7 @@
 <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula) -->
   
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&theme=dracula)](https://github.com/vishal-sys-code/github-readme-stats) -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vishal-sys-code/github-readme-stats) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/pin/?username=vishal-sys-code&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&theme=dracula)](https://github.com/vishal-sys-code/github-readme-stats)
 
 
   <!-- ### Streak
