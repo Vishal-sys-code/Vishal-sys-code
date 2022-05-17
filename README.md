@@ -33,13 +33,13 @@
     <!-- <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935"> -->
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <!-- <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" /> -->
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
     <!-- <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br> -->
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <!-- <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" /> -->
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <!-- <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" /> -->
-    <!-- <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" /> -->
+    <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
     <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
 </div>
 <br/>
