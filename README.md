@@ -1,4 +1,4 @@
-## नमस्ते, I'm Vishal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## नमस्ते, I'm Vishal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://vishal-sys-code.github.io/tmleyncodes.github.io/)](https://vishal-sys-code.github.io/tmleyncodes.github.io/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=vishal-sys-code&color=blue&logo=flat)
