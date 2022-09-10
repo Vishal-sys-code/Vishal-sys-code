@@ -1,109 +1,99 @@
-## Hi, I'm Vishal aka tmleyncodes
+<strong><h1>Hi, I'm Vishal Pandey</h1></strong>
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://vishal-sys-code.github.io/)](https://vishal-sys-code.github.io/)
-![Visitor Count](https://komarev.com/ghpvc/?username=vishal-sys-code&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/vishal.pandey3-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/vishal-pandey-992248189/)
-[![Instagram](https://img.shields.io/badge/thisisvishalpandey-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/thisisvishalpandey/)
+<!-- Vishal-sys-code -->
+[![Portfolio](https://img.shields.io/website?color=red&label=Portfolio&style=flat&up_message=Online&url=https://vishal-sys-code.github.io/)](https://vishal-sys-code.github.io/)
+![](https://komarev.com/ghpvc/?username=Vishal-sys-code&color=red)
+![GitHub followers](https://img.shields.io/github/followers/Vishal-sys-code?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Vishal-sys-code?style=social)
+ 
+***<h2>Skills</h2>***
+<b>Strongest:</b> <br>
 
-<br>
-
-- 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Python and Java
-- 👯 I’m looking to collaborate on JavaScript and ML projects
-- 💬 Ask me about C, C++, CSS, Java and JavaScript
-- 📫 How to reach me: <a href="mailto:bishalpandey2001@gmail.com">vp@aihoax.com</a>
-- 🤔 I’m looking for help with reactjs
-- ⚡ Fun Fact: GitHub is a Hub of gits (Just Kidding).
-- ⛓️ Gist Link: <a href="https://gist.github.com/Vishal-sys-code">Vishal_Gists</a>
-  <br/>
-
-## Working Stack:
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <!-- <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" /> -->
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <!-- <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" /> -->
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
-    <!-- <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935"> -->
-    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-    <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <!-- <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br> -->
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <!-- <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" /> -->
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <!-- <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" /> -->
-    <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
-    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
-</div>
+* Data structures & Algorithms
+* Front-End Development
+* Mathematics
+* Recreational Algorithms
+* Competitive Programming
+* Programming Languages: <i>C++/C, Java, Python, MYSQL, JS</i>
 <br/>
 
-<!-- ## Statistics
+<b>Familiar:</b> <br>
+* Node.js, HTML/CSS, CS-Fundamentals, Git & GitHub, Linux, LaTex, ReactJs, NextJs, Jupyter Notebook
+<br/>
 
-<div align="center"> -->
-<!--   
-  ### Trophies
+<b>Learning:</b>
+* MongoDB
+<br/>
+<br/>
 
-  [![Vishal's Trophy](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula) -->
+I’m a 4th-year Undergrad student and researcher at St. Thomas’ College of Engineering and Technology(STCET) with a major in Information Technology. Researching as an independent, in the fields of Astrophysics, Theoretical Physics, Algorithms, Mathematics, and Machine Learning. I study the intelligence behavior of the brain and how to replicate it into the brain of the machine. <br>
+<br/>
+ 
+## 🧰 Toolbox
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+  ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+  ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
+  <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1"/>
 
-  ### Github Stats
 
-  [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-sys-code&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/vishal-sys-code?tab=repositories)
-
-  ### Top Languages
-<!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula) -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&theme=dracula)](https://github.com/vishal-sys-code/github-readme-stats)
 
-
-  <!-- ### Streak
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpandey03&theme=dracula)](https://git.io/streak-stats)
-
-  ### Graph
-
-  [![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishal-sys-code &theme=dracula)](https://activity-graph.herokuapp.com/graph?username=vishal-sys-code&theme=dracula) -->
-
-</div>
-
-<!--
-<a href="https://github.com/sanchitbajaj02">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
-</a>
--->
-
-### Contribution Graph
-<a href="https://activity-graph.herokuapp.com/graph?username=vishal-sys-code">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vishal-sys-code&theme=dracula">
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/Vishal-sys-code">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-sys-code&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-sys-code&theme=dark&layout=compact" />
 </a>
 
-### Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-sys-code)](https://git.io/streak-stats)
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>-->
+### 🏆 Github Profile Trophy
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-sys-code&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  
+### 🔥 GitHub Streak
+ 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-sys-code&theme=highcontrast)
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
-</a>
--->
+### 📈 Github Activity Graph
+[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishal-sys-code&theme=react-dark)](https://github.com/Vishal-sys-code/github-readme-activity-graph)
 
-<!--  [![My Stats](https://github-readme-stats.vercel.app/api?username=vishal-sys-code&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/vishal-sys-code?tab=repositories) -->
+  
+### 📈Online Coding Profile
 
-<!-- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/vishal-sys-code?tab=repositories) -->
+   <a href="https://codeforces.com/profile/TmleynCodes03"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
+   <a href="https://www.codechef.com/users/runtimegeek"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
+   <a href="https://leetcode.com/tmleyncodes/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
+   <a href="https://www.hackerrank.com/bishalpandey2001"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
+   
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/vishal-pandey-992248189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a>
+<a href="mailto:bishalpandey2001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"></a> 
+<a href="https://www.sololearn.com/profile/14479100"><img alt="Sololearn" src="https://img.shields.io/badge/SoloLearn-black?style=flat-square&logo=sololearn"></a>
+<a href="https://www.facebook.com/tmleyncodes/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/thisisvishalpandey/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram"></a>
+
+### 
+  
+--------
+
+![GitHub metrics](https://metrics.lecoq.io/Vishal-sys-code)
+
+<hr>
+ 
 
 
-  ### Trophies
-
-  [![Vishal's Trophy](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=vishal-sys-code&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
