@@ -11,6 +11,7 @@
 
 * Data structures & Algorithms
 * Front-End Development
+* Machine Learning
 * Mathematics
 * Recreational Algorithms
 * Competitive Programming
@@ -75,8 +76,8 @@ I’m a 4th-year Undergrad student and researcher at St. Thomas’ College of En
   
 ### 📈Online Coding Profile
 
-   <a href="https://codeforces.com/profile/TmleynCodes03"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
-   <a href="https://www.codechef.com/users/runtimegeek"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
+   <a href="https://codeforces.com/profile/TwelveThread"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
+   <a href="https://www.codechef.com/users/tmleyncodes03"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
    <a href="https://leetcode.com/tmleyncodes/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
    <a href="https://www.hackerrank.com/bishalpandey2001"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
    
