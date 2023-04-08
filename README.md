@@ -27,7 +27,13 @@
 <br/>
 <br/>
 
-I’m a 4th-year Undergrad student and researcher at St. Thomas’ College of Engineering and Technology(STCET) with a major in Information Technology. Researching as an independent, in the fields of Astrophysics, Theoretical Physics, Algorithms, Mathematics, and Machine Learning. I study the intelligence behavior of the brain and how to replicate it into the brain of the machine. <br>
+I'm a 4th-year undergraduate student at St. Thomas College of Engineering and Technology with a passion for Machine Learning and Deep Learning research. As a contributor to Kaggle, I've published a number of high-quality notebooks and competed in several data science competitions, honing my skills in various ML and DL frameworks.<br>
+
+In addition, I'm a competitive programmer with a robust track record of success on platforms like Codeforces and LeetCode. I enjoy tackling challenging algorithmic problems and have a deep understanding of data structures and algorithms.<br>
+
+I'm also an accomplished researcher with 4 published papers in Mathematics, Physics, and Data Structure and Algorithms. My research has focused on a variety of topics, including statistical modeling, quantum mechanics, and graph theory.<br>
+
+As an open-source contributor, I've made contributions to both ML and front-end technology projects, working with teams around the world to build high-quality, scalable software solutions. <br>
 <br/>
  
 ## 🧰 Toolbox
