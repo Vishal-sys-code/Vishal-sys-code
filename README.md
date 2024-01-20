@@ -77,7 +77,7 @@ As an open-source contributor, I've made contributions to both ML and front-end 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-sys-code&theme=highcontrast)
 
 ### 📈 Github Activity Graph
-[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishal-sys-code&theme=react-dark)](https://github.com/Vishal-sys-code/github-readme-activity-graph)
+[!(https://activity-graph.herokuapp.com/graph?username=Vishal-sys-code&theme=react-dark)](https://github.com/Vishal-sys-code/github-readme-activity-graph)
 
   
 ### 📈Online Coding Profile
