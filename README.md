@@ -4,8 +4,7 @@ Hi 👋 My name is Vishal Pandey
 Machine Learning Engineer
 -------------------------
 
-* 🌍  I'm based in Stamford, United Kingdom
-* ✉️  You can contact me at [bishalpandey2001@gmail.com](mailto:bishalpandey2001@gmail.com)
+* ✉️  You can contact me at [pandeyvishal.mlprof@gmail.com](mailto:pandeyvishal.mlprof@gmail.com)
 * 🤝  I'm open to collaborating on Neural Networks and LLMs
 
 ### Skills
