@@ -69,6 +69,9 @@ I like to explore problems from first principles, implement them rigorously, and
 ---
 
 ## 🙏 Acknowledgements
+
 Special thanks to my research collaborator **[Debasmita Biswas]([https://github.com/debasmitabiswas](https://github.com/Debasmita19))** for her contributions to projects including *AgroSense* and *Spiking Decision Transformer*.
+
 ---
-✨ Thanks for visiting! If you find my work interesting, feel free to ⭐ my repos or reach out — I’m always open to collaboration and research discussions.
+
+✨ Thanks for visiting! If you find my work interesting, feel free to ⭐ my repos or reach out, I’m always open to collaboration and research discussions.
