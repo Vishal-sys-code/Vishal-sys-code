@@ -70,7 +70,7 @@ I like to explore problems from first principles, implement them rigorously, and
 
 ## 🙏 Acknowledgements
 
-Special thanks to my research collaborator **[Debasmita Biswas]([https://github.com/debasmitabiswas](https://github.com/Debasmita19))** for her contributions to projects including *AgroSense* and *Spiking Decision Transformer*.
+Special thanks to my research collaborator ***[Debasmita Biswas](https://github.com/Debasmita19)*** for her contributions to projects including *AgroSense* and *Spiking Decision Transformer*.
 
 ---
 
