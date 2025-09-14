@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Pandey (Vayishu)
+# Hi, I'm Vishal S. Pandey (Vayishu)
 
 Welcome to my GitHub! I’m a researcher and engineer working at the intersection of **Machine Learning, Deep Learning, and Autonomous Agents**.  
 I like to explore problems from first principles, implement them rigorously, and share my work openly here.  
