@@ -1,7 +1,7 @@
-# Hi, I'm Vishal S. Pandey (Vayishu)
+# Hi, I'm Vishal S. Pandey (Vayishu) 
 
 Welcome to my GitHub! I’m a researcher and engineer working at the intersection of **Machine Learning, Deep Learning, and Autonomous Agents**.  
-I like to explore problems from first principles, implement them rigorously, and share my work openly here.  
+I enjoy exploring problems from first principles, implementing them rigorously, and sharing my work openly here.  
 
 ---
 
@@ -9,7 +9,16 @@ I like to explore problems from first principles, implement them rigorously, and
 - Implement **ML & DL algorithms from scratch** to understand them deeply.  
 - Explore **reinforcement learning and agentic systems**, applying them to real-world challenges.  
 - Work on **generalization, optimization, and interpretability** in deep learning models.  
-- Build **open, reproducible projects** that others can learn from and build upon.  
+- Build **open, reproducible projects** that others can learn from and build upon.
+
+---
+
+## 🧠 Research Interests
+- Reinforcement Learning & Autonomous Agents  
+- Neuromorphic & Energy-Efficient AI  
+- LLMs, MoE, and Agentic Systems  
+- Applied AI in Healthcare, Agriculture, and Cybersecurity  
+- AI Safety, Generalization, and Interpretability 
 
 ---
 
@@ -61,6 +70,7 @@ I like to explore problems from first principles, implement them rigorously, and
 ---
 
 ## 📬 Connect
+- Email: [pandeyvishal.mlprof@gmail.com](pandeyvishal.mlprof@gmail.com)
 - GitHub: [Vishal-sys-code](https://github.com/Vishal-sys-code)  
 - Blog & Writings: [vayishu.bearblog.dev](https://vayishu.bearblog.dev)
 - X: [its_vayishu](https://x.com/its_vayishu)
