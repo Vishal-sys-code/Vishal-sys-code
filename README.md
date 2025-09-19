@@ -75,7 +75,3 @@ I enjoy exploring problems from first principles, implementing them rigorously, 
 - Blog & Writings: [vayishu.bearblog.dev](https://vayishu.bearblog.dev)
 - X: [its_vayishu](https://x.com/its_vayishu)
 - Google Scholar: [vayishu-gscholar](https://scholar.google.com/citations?user=tVAsb08AAAAJ&hl=en)
-
----
-
-✨ Thanks for visiting! If you find my work interesting, feel free to ⭐ my repos or reach out, I’m always open to collaboration and research discussions.
