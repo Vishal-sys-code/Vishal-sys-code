@@ -1,28 +1,4 @@
-# Hi, I'm Vishal S. Pandey (Vayishu) 
-
-Welcome to my GitHub! I’m a researcher and engineer working at the intersection of **Machine Learning, Deep Learning, and Autonomous Agents**.  
-I enjoy exploring problems from first principles, implementing them rigorously, and sharing my work openly here.  
-
----
-
-## 🔍 What I Do
-- Implement **ML & DL algorithms from scratch** to understand them deeply.  
-- Explore **reinforcement learning and agentic systems**, applying them to real-world challenges.  
-- Work on **generalization, optimization, and interpretability** in deep learning models.  
-- Build **open, reproducible projects** that others can learn from and build upon.
-
----
-
-## 🧠 Research Interests
-- Reinforcement Learning & Autonomous Agents  
-- Neuromorphic & Energy-Efficient AI  
-- LLMs, MoE, and Agentic Systems  
-- Applied AI in Healthcare, Agriculture, and Cybersecurity  
-- AI Safety, Generalization, and Interpretability 
-
----
-
-## 🔬 Research & Real-World Projects
+## Research & Real-World Projects
 
 - **GenAI Research Agent**: An autonomous research assistant that uses LLMs to read papers, summarize findings, and suggest new directions for exploration.  [Repository Link](https://github.com/Vishal-sys-code/genai-research-agent)
 - **Neuromorphic Decision Transformer (arXiv Paper)**: A spiking neural variant of Decision Transformers, designed to reduce inference energy while maintaining strong policy performance.  [Repository Link](https://github.com/Vishal-sys-code/neuromorphic_decision_transformer)
@@ -41,7 +17,7 @@ I enjoy exploring problems from first principles, implementing them rigorously, 
 
 ---
 
-## 📊 Kaggle & Applied ML Projects
+## Kaggle & Applied ML Projects
 
 - **Signature Verification (CNN, SNN, CSNN)**: Verifies signatures using convolutional and spiking neural network architectures.  [Code Link](https://www.kaggle.com/code/tmleyncodes/signature-verification-using-cnn-snn-csnn)
 - **Drowsiness Detection**: Detects driver drowsiness using data and image inputs for real-time safety applications.  [Code Link](https://www.kaggle.com/code/tmleyncodes/drowsiness-detection)
@@ -53,19 +29,15 @@ I enjoy exploring problems from first principles, implementing them rigorously, 
 
 ---
 
-## 📝 Publications & Highlights
+## Publications & Highlights
 
 - **Spiking Decision Transformer**: Neuromorphic adaptation of Decision Transformers.  [Paper Link](https://arxiv.org/abs/2508.21505)
 - **AgroSense**: Precision agriculture system for crop recommendation.  [Paper Link](https://arxiv.org/abs/2509.01344)
-- **Diabetes Prediction and Its Types**: Undergraduate research project exploring classification of diabetes subtypes.  
-
+- **Diabetes Prediction and Its Types**: Undergraduate research project exploring classification of diabetes subtypes.
 
 ---
 
-## 📊 My GitHub in Numbers
-- 💻 50+ repositories covering ML, DL, RL, and agentic systems.  
-- 🧠 Focused on **clarity, reproducibility, and teaching** through code.  
-- 🌱 Always experimenting, learning, and documenting along the way.  
+I sincerely thank my dear friend [Debasmita](https://github.com/Debasmita19) for her kind support and invaluable help with the Spiking Decision Transformer and AgroSense projects.
 
 ---
 
