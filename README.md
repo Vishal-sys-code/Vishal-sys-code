@@ -37,6 +37,10 @@
 
 ---
 
+I sincerely thank my dear friend [Debasmita](https://github.com/Debasmita19) for her kind support and invaluable help with the Spiking Decision Transformer and AgroSense projects. 
+
+---
+
 ## 📬 Connect
 - Email: [pandeyvishal.mlprof@gmail.com](pandeyvishal.mlprof@gmail.com)
 - GitHub: [Vishal-sys-code](https://github.com/Vishal-sys-code)  
