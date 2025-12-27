@@ -37,7 +37,7 @@
 
 ---
 
-## 📬 Connect
+##  Connect
 - Email: [pandeyvishal.mlprof@gmail.com](pandeyvishal.mlprof@gmail.com)
 - GitHub: [Vishal-sys-code](https://github.com/Vishal-sys-code)  
 - Blog & Writings: [vayishu.bearblog.dev](https://vayishu.bearblog.dev)
