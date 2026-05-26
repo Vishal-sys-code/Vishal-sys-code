@@ -12,6 +12,7 @@
   <a href="https://arxiv.org/search/?query=vishal+pandey&searchtype=author"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" /></a>
   <a href="https://www.kaggle.com/tmleyncodes"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
   <a href="https://vayishu.bearblog.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://vayishu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white"></a>
   <a href="https://x.com/its_vayishu"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
