@@ -30,11 +30,11 @@ I work on methods for efficient, adaptive, and interpretable machine learning, w
 
 ## Research Interests
 
-- **Neuromorphic and spiking architectures** — energy-efficient inference via spike-based computation and biologically motivated learning rules
-- **Attention mechanisms and long-context modeling** — stable associative memory, linear-time recurrent formulations, principled memory management
-- **Reinforcement learning and sequential decision-making** — return-conditioned sequence models, adaptive control, and agentic pipelines
-- **Multimodal and applied ML** — fusing visual and structured signals; interpretable clinical prediction with SHAP-grounded analysis
-- **Systems-level efficiency** — JAX and PyTorch implementations tuned for research-to-deployment fidelity
+- **Neuromorphic and spiking architectures**: energy-efficient inference via spike-based computation and biologically motivated learning rules
+- **Attention mechanisms and long-context modeling**: stable associative memory, linear-time recurrent formulations, principled memory management
+- **Reinforcement learning and sequential decision-making**: return-conditioned sequence models, adaptive control, and agentic pipelines
+- **Multimodal and applied ML**: fusing visual and structured signals; interpretable clinical prediction with SHAP-grounded analysis
+- **Systems-level efficiency**: JAX and PyTorch implementations tuned for research-to-deployment fidelity
 
 ---
 
@@ -47,7 +47,7 @@ I work on methods for efficient, adaptive, and interpretable machine learning, w
 | 2026 | **Variational Linear Attention: Stable Associative Memory for Long-Context Transformers** | Pandey, Singh | [![arXiv](https://img.shields.io/badge/arXiv-2605.11196-B31B1B?style=flat-square)](https://arxiv.org/abs/2605.11196) |
 | 2026 | **A Unified Three-Stage Machine Learning Framework for Diabetes Detection, Subtype Discrimination, and Cognitive-Metabolic Hypothesis Testing** | Pandey, Laskar, Tewari | [![arXiv](https://img.shields.io/badge/arXiv-2605.13464-B31B1B?style=flat-square)](https://arxiv.org/abs/2605.13464) |
 | 2025 | **Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control** | Pandey, Biswas | [![arXiv](https://img.shields.io/badge/arXiv-2508.21505-B31B1B?style=flat-square)](https://arxiv.org/abs/2508.21505) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Vishal-sys-code/neuromorphic_decision_transformer) |
-| 2025 | **AgroSense: A Multimodal Framework for Crop and Soil Analysis in Precision Agriculture** | *(see paper)* | [![arXiv](https://img.shields.io/badge/arXiv-2509.01344-B31B1B?style=flat-square)](https://arxiv.org/abs/2509.01344) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Vishal-sys-code/AgroSense) |
+| 2025 | **AgroSense: A Multimodal Framework for Crop and Soil Analysis in Precision Agriculture** | Pandey, Das, Biswas | [![arXiv](https://img.shields.io/badge/arXiv-2509.01344-B31B1B?style=flat-square)](https://arxiv.org/abs/2509.01344) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Vishal-sys-code/AgroSense) |
 
 <details>
 <summary><b>Abstract highlights</b></summary>
@@ -109,22 +109,6 @@ I work on methods for efficient, adaptive, and interpretable machine learning, w
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Research domains:** Transformers · Spiking Neural Networks · Reinforcement Learning · Multimodal Fusion · RAG Systems · Linear Attention · Interpretable ML · Neuromorphic Computing
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Vishal-sys-code&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-sys-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="155" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-sys-code&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155" />
-
-</div>
 
 ---
 
