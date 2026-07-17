@@ -10,3 +10,7 @@ Notable Projects I worked on:
 - Latent Trajectories: [Paper](https://arxiv.org/abs/2606.09287) | [Code](https://github.com/Vishal-sys-code/latent-trajectories) | [Deployement](https://huggingface.co/spaces/vayishu/latent-trajectories)
 - Agrosense [v1 & v2]: [Paper-V1](https://arxiv.org/abs/2509.01344) | [Paper-V2](https://arxiv.org/abs/2606.21892) | [Code](https://github.com/Vishal-sys-code/AgroSense)
 - Diabetes Prediction and its testing on human cognition: [Paper](https://arxiv.org/pdf/2605.13464) | [Code](https://github.com/Vishal-sys-code/Diabetes-Types-Prediction)
+
+Contributions:
+- I contributed `MuonGrafting` as a co-author at Facebook AI Research in the optimizer's repository, and it was merged internally via Phabricator in (internalfb.com) by Tsung-Hsien Lee
+[tsunghsienlee](https://github.com/tsunghsienlee). PR: [Merged](https://github.com/facebookresearch/optimizers/pull/242), [MuonGrafting_Implementation](https://github.com/facebookresearch/optimizers/pull/227). 
